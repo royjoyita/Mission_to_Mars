@@ -8,3 +8,5 @@ Used splinter to navigate the site to find the image url for the current Feature
 Visited the Mars Facts webpage here and use Pandas to scrape the table containing facts about the planet including Diameter, Mass, etc.
 
 Visited the USGS Astrogeology site here to obtain high resolution images for each of Mar’s hemispheres.
+
+
